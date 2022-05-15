@@ -9,3 +9,5 @@
 跳跃表
 * 5.intset <br>
 整数集合
+* 6.ziplist <br>
+压缩列表
